@@ -5,13 +5,13 @@
 
 - 🏫 CS student at Denison University, OH
 - 👩🏻‍💻 Former SWE Intern at Goldman Sachs
-- ☺️ Currently developing Denison Social hosted on AWS (View demo [here](https://d2043rjub15yfz.cloudfront.net/))
+- ☺️ Currently developing Denison Social hosted on AWS (View demo <a href="https://d2043rjub15yfz.cloudfront.net/">here</a>)
 - 🧑‍🤝‍🧑 Currently making some of my first open-source contributions and would love to contribute more
 - 💻 Interested in Web Development, Cloud Computing, and Machine Learning
 - I’m open for Software Engineer New Grad Opportunities
 
 <h3>My Resume</h3>
-View my resume [here](https://drive.google.com/file/d/1LpRU4-f1JMpKOmQjg6Dzz3O1_mtyfsqs/view?usp=sharing)
+View my resume <a href="https://drive.google.com/file/d/1LpRU4-f1JMpKOmQjg6Dzz3O1_mtyfsqs/view?usp=sharing/">here</a>
 
 <h3>Skills</h3>
 
@@ -21,7 +21,7 @@ View my resume [here](https://drive.google.com/file/d/1LpRU4-f1JMpKOmQjg6Dzz3O1_
 
 <h3>Outside of work</h3>
 
-- [Yoga With Adriene] (https://www.youtube.com/user/yogawithadriene) 🧘 is my fav channel
+- <a href="https://www.youtube.com/user/yogawithadriene">Yoga With Adriene</a> 🧘 is my fav channel
 - Escape Room 🧩 is my to-go place with friends
 
 
