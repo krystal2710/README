@@ -7,7 +7,7 @@
 - 👩🏻‍💻 Former SWE Intern at Goldman Sachs
 - 💻 Interested in Web Development, Cloud Computing, and Big Data Engineering
 - 🤗 Contributing to a full-stack web app for TechCare Coaching service
-- 🔍 Working on a multilingual search engine project
+- 🔍 Building a multilingual search engine
 - 🧑‍🤝‍🧑 Making some of my first open-source contributions and would love to contribute more
 - ☺️ Developed Denison Social web app hosted on AWS (View demo <a href="https://d2043rjub15yfz.cloudfront.net/">here</a>)
 - I’m open for Software Engineer New Grad Opportunities
