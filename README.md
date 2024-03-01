@@ -7,7 +7,7 @@ Connect with me at <a href="mailto:krystally2710@gmail.com">krystally2710@gmail.
 - 👩🏻‍💻 Incoming SWE at Oracle Cloud Infrastructure
 - 👩🏻‍💻 Former SWE Intern at Goldman Sachs
 - 🏫 CS student at Denison University, OH
-- 💻 Interested in Web Development, Cloud Computing, and Big Data Engineering
+- 💻 Interested in Full Stack Development, Cloud Computing, and Big Data Engineering
 - 🤗 Contributing to a full-stack web app for TechCare Coaching service
 - 🔍 Building a multilingual search engine
 - 🧑‍🤝‍🧑 Making some of my first open-source contributions and would love to contribute more
