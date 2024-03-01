@@ -1,6 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Krystal Ly </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	
+Connect with me at <a href="mailto:krystally2710@gmail.com">krystally2710@gmail.com</a> or <a href="https://www.linkedin.com/in/krystal-ly/">LinkedIn</a>
+
 <h3>About me</h3>
 
 - 🏫 CS student at Denison University, OH
@@ -14,7 +15,7 @@
 
 <h3>My Resume</h3>
 View my resume <a href="https://drive.google.com/file/d/1LpRU4-f1JMpKOmQjg6Dzz3O1_mtyfsqs/view?usp=sharing/">here</a>
-
+	
 <h3>Skills</h3>
 
 - Languages: Python, SQL, Java, JavaScript, HTML, CSS, R (intermediate); C++ (beginner)
@@ -26,5 +27,3 @@ View my resume <a href="https://drive.google.com/file/d/1LpRU4-f1JMpKOmQjg6Dzz3O
 
 - Badminton 🏸
 - Genshin Impact 🎮
-
-
