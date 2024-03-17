@@ -8,7 +8,7 @@ Connect with me at <a href="mailto:krystally2710@gmail.com">krystally2710@gmail.
 - 👩🏻‍💻 Former SWE Intern at Goldman Sachs
 - 🏫 CS student at Denison University, OH
 - 💻 Interested in Full Stack Development, Cloud Computing, and Big Data Engineering
-- 🤗 Contributing to a full-stack web app for TechCare Coaching service
+- 🤗 Contributing to a full-stack web app for <a href="https://techcarecoaching.com/">TechCare Coaching service</a>
 - 🔍 Building a multilingual search engine
 - 🧑‍🤝‍🧑 Making some of my first open-source contributions and would love to contribute more
 - ☺️ Developed Denison Social web app hosted on AWS (View demo <a href="https://d2043rjub15yfz.cloudfront.net/">here</a>)
